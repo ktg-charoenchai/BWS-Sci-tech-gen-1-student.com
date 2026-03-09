@@ -119,6 +119,7 @@
         max-width:100%;
     }
     .modal-box h1{
+		font-family: "OCR-A Std", monospace;
         margin:30px;
         font-size:20px;
     }
@@ -271,6 +272,7 @@
         max-width:100%;
     }
     .modal-box h1{
+		font-family: "OCR-A Std", monospace;
         margin:30px;
         font-size: 26px;
     }
@@ -423,6 +425,7 @@
         max-width:100%;
     }
     .modal-box h1{
+		font-family: "OCR-A Std", monospace;
         margin:30px;
         font-size: 26px;
     }
@@ -575,6 +578,7 @@
         max-width:100%;
     }
     .modal-box h1{
+		font-family: "OCR-A Std", monospace;
         margin:30px;
         font-size: 26px;
     }
